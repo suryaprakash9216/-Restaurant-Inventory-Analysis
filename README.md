@@ -1,8 +1,8 @@
- # Restaurant Inventory & Stock Monitoring Dashboard
+ # Restaurant Inventory & Stock Monitoring 
 
 ## Overview
 
-The **Restaurant Inventory & Stock Monitoring Dashboard** project was developed to improve inventory visibility, stock tracking, and operational decision-making in a restaurant environment using SQL and Power BI. The project focuses on monitoring inventory consumption, identifying low-stock and out-of-stock items, and analyzing storage-based inventory management through interactive business intelligence dashboards.
+The **Restaurant Inventory & Stock Monitoring** project was developed to improve inventory visibility, stock tracking, and operational decision-making in a restaurant environment using SQL and Power BI. The project focuses on monitoring inventory consumption, identifying low-stock and out-of-stock items, and analyzing storage-based inventory management through interactive business intelligence dashboards.
 
 The main objective of the project is to demonstrate how data analytics and visualization techniques can support efficient restaurant inventory operations, reduce stock wastage, prevent inventory shortages, and improve restocking decisions.
 
