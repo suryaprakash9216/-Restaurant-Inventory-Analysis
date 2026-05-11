@@ -1,0 +1,321 @@
+storage_type,item_name,total_stock,total_used,remaining_stock,status
+shelf,"coffee fresh",31,2,29,AVAILABLE
+fridge,"salmon premium",48,3,45,AVAILABLE
+fridge,"butter frozen",34,4,30,AVAILABLE
+fridge,"chicken supreme local",27,3,24,AVAILABLE
+shelf,"oats large",8,2,6,"LOW STOCK"
+freezer,"fish fingers imported",21,6,15,AVAILABLE
+shelf,"onion powder premium",45,1,44,AVAILABLE
+freezer,"spring rolls small",21,1,20,AVAILABLE
+fridge,"milk organic",44,7,37,AVAILABLE
+freezer,"spring rolls frozen",30,2,28,AVAILABLE
+fridge,"mushroom premium",36,6,30,AVAILABLE
+freezer,"chowder fresh",35,6,29,AVAILABLE
+shelf,"tea powder bulk",34,7,27,AVAILABLE
+freezer,"frozen fish frozen",8,3,5,"LOW STOCK"
+shelf,jam,16,4,12,AVAILABLE
+fridge,pork,46,4,42,AVAILABLE
+shelf,"sunflower oil frozen",14,6,8,AVAILABLE
+fridge,"cucumber imported",12,6,6,AVAILABLE
+fridge,"eggs small",14,5,9,AVAILABLE
+shelf,"garlic bread",11,3,8,AVAILABLE
+shelf,"garlic bread premium",39,8,31,AVAILABLE
+shelf,"chickpeas bulk",27,6,21,AVAILABLE
+fridge,"pork premium",39,2,37,AVAILABLE
+fridge,"ham small",21,4,17,AVAILABLE
+shelf,ketchup,46,3,43,AVAILABLE
+freezer,"frozen corn",49,3,46,AVAILABLE
+fridge,"hake fresh",28,5,23,AVAILABLE
+freezer,"chowder frozen",6,4,2,"LOW STOCK"
+fridge,"ham frozen",22,7,15,AVAILABLE
+fridge,"lamb organic",48,4,44,AVAILABLE
+freezer,"frozen chips small",35,1,34,AVAILABLE
+freezer,sausages,19,1,18,AVAILABLE
+shelf,"cornflakes large",26,7,19,AVAILABLE
+shelf,"bbq sauce fresh",46,1,45,AVAILABLE
+fridge,"bacon small",11,4,7,AVAILABLE
+fridge,"lamb fresh",31,1,30,AVAILABLE
+freezer,"fish fingers organic",7,7,-0,"OUT OF STOCK"
+shelf,"onion powder small",10,5,5,"LOW STOCK"
+fridge,"lamb local",19,3,16,AVAILABLE
+fridge,"hake bulk",22,6,16,AVAILABLE
+shelf,"beans premium",36,7,29,AVAILABLE
+freezer,"frozen chips large",47,2,45,AVAILABLE
+fridge,carrot,11,7,4,"LOW STOCK"
+freezer,"frozen fish large",15,3,12,AVAILABLE
+fridge,"chicken goujons bulk",36,2,34,AVAILABLE
+freezer,"ice cream strawberry premium",19,2,17,AVAILABLE
+shelf,"rice imported",48,5,43,AVAILABLE
+freezer,"frozen peas frozen",38,2,36,AVAILABLE
+fridge,broccoli,29,7,22,AVAILABLE
+shelf,"salt frozen",13,1,12,AVAILABLE
+freezer,"ice cream chocolate organic",42,3,39,AVAILABLE
+freezer,"ice cream strawberry fresh",18,3,15,AVAILABLE
+shelf,"mixed herbs small",17,6,11,AVAILABLE
+freezer,"fish fingers",50,4,46,AVAILABLE
+shelf,"onion powder large",16,4,12,AVAILABLE
+fridge,"chicken goujons",24,4,20,AVAILABLE
+shelf,"sunflower oil fresh",39,2,37,AVAILABLE
+fridge,"butter small",37,5,32,AVAILABLE
+shelf,"mustard large",28,5,23,AVAILABLE
+shelf,"vinegar large",47,3,44,AVAILABLE
+fridge,"beef frozen",25,4,21,AVAILABLE
+fridge,"chicken goujons small",6,4,2,"LOW STOCK"
+shelf,"sugar imported",20,6,14,AVAILABLE
+fridge,"pork frozen",40,1,39,AVAILABLE
+freezer,"frozen fish fresh",35,4,31,AVAILABLE
+shelf,"oats imported",8,6,2,"LOW STOCK"
+fridge,"lamb small",40,5,35,AVAILABLE
+fridge,"milk frozen",24,3,21,AVAILABLE
+shelf,"garlic bread bulk",18,4,14,AVAILABLE
+shelf,"oats small",5,3,2,"LOW STOCK"
+fridge,"broccoli local",27,4,23,AVAILABLE
+freezer,"frozen chips frozen",13,4,9,AVAILABLE
+fridge,"cream premium",27,2,25,AVAILABLE
+fridge,"milk premium",15,6,9,AVAILABLE
+shelf,"custard powder frozen",37,4,33,AVAILABLE
+shelf,"black pepper large",39,4,35,AVAILABLE
+fridge,"lamb imported",46,1,45,AVAILABLE
+shelf,"soy sauce imported",49,1,48,AVAILABLE
+fridge,"pork fresh",19,1,18,AVAILABLE
+shelf,"pasta fresh",31,3,28,AVAILABLE
+freezer,"ice cream vanilla",15,2,13,AVAILABLE
+fridge,"pork local",35,5,30,AVAILABLE
+fridge,"spinach organic",44,6,38,AVAILABLE
+fridge,"hake frozen",5,3,2,"LOW STOCK"
+shelf,"cornflakes local",26,2,24,AVAILABLE
+fridge,mushroom,15,3,12,AVAILABLE
+shelf,"custard powder fresh",20,3,17,AVAILABLE
+shelf,"corn flour imported",16,5,11,AVAILABLE
+shelf,"jam frozen",43,6,37,AVAILABLE
+fridge,"tomato local",36,6,30,AVAILABLE
+fridge,"chicken wings local",42,7,35,AVAILABLE
+freezer,"ice cream chocolate large",33,3,30,AVAILABLE
+shelf,"salt local",14,6,8,AVAILABLE
+shelf,"turmeric fresh",42,4,38,AVAILABLE
+freezer,"frozen corn frozen",22,4,18,AVAILABLE
+shelf,"paprika large",16,5,11,AVAILABLE
+shelf,"corn flour frozen",6,2,4,"LOW STOCK"
+fridge,"carrot imported",37,6,31,AVAILABLE
+shelf,"sugar large",45,5,40,AVAILABLE
+shelf,"soy sauce local",40,4,36,AVAILABLE
+fridge,"carrot premium",15,4,11,AVAILABLE
+freezer,"frozen peas fresh",41,3,38,AVAILABLE
+shelf,"sugar frozen",35,6,29,AVAILABLE
+shelf,"garlic powder",41,4,37,AVAILABLE
+shelf,"black pepper organic",36,1,35,AVAILABLE
+shelf,"mayonnaise frozen",33,4,29,AVAILABLE
+fridge,"salmon frozen",14,4,10,AVAILABLE
+shelf,"olive oil small",33,5,28,AVAILABLE
+shelf,"onion local",27,5,22,AVAILABLE
+shelf,"onion powder local",29,5,24,AVAILABLE
+freezer,"frozen corn imported",35,8,27,AVAILABLE
+fridge,"salmon large",48,3,45,AVAILABLE
+shelf,"beans imported",36,3,33,AVAILABLE
+freezer,"fish fingers bulk",42,4,38,AVAILABLE
+freezer,"spring rolls premium",12,3,9,AVAILABLE
+shelf,"custard powder imported",9,1,8,AVAILABLE
+shelf,coffee,30,4,26,AVAILABLE
+shelf,"mustard small",11,4,7,AVAILABLE
+shelf,"noodles frozen",7,6,1,"OUT OF STOCK"
+shelf,"paprika premium",17,5,12,AVAILABLE
+shelf,"garlic powder small",13,4,9,AVAILABLE
+fridge,"cucumber fresh",40,6,34,AVAILABLE
+freezer,"frozen peas organic",29,3,26,AVAILABLE
+fridge,"pork imported",45,6,39,AVAILABLE
+freezer,"ice cream strawberry large",17,5,12,AVAILABLE
+freezer,"ice cream strawberry imported",17,6,11,AVAILABLE
+fridge,"bacon local",40,4,36,AVAILABLE
+shelf,"ketchup organic",6,3,3,"LOW STOCK"
+shelf,"mayonnaise small",16,5,11,AVAILABLE
+shelf,"black pepper fresh",34,4,30,AVAILABLE
+fridge,"chicken wings imported",21,6,15,AVAILABLE
+fridge,"chicken goujons fresh",36,1,35,AVAILABLE
+shelf,"plain flour bulk",36,3,33,AVAILABLE
+shelf,"mayonnaise fresh",19,4,15,AVAILABLE
+shelf,"cornflakes imported",15,7,8,AVAILABLE
+shelf,"coffee large",39,1,38,AVAILABLE
+fridge,"carrot organic",31,4,27,AVAILABLE
+freezer,"veg rolls fresh",10,5,5,"LOW STOCK"
+shelf,"sugar fresh",11,5,6,"LOW STOCK"
+shelf,"ketchup premium",24,2,22,AVAILABLE
+fridge,"hake organic",23,7,16,AVAILABLE
+shelf,"tea powder organic",34,4,30,AVAILABLE
+shelf,"onion imported",45,2,43,AVAILABLE
+shelf,rice,14,5,9,AVAILABLE
+shelf,"noodles imported",11,2,9,AVAILABLE
+freezer,"spring rolls bulk",37,2,35,AVAILABLE
+shelf,"chickpeas large",46,2,44,AVAILABLE
+shelf,"salt small",9,1,8,AVAILABLE
+freezer,"ice cream vanilla fresh",44,8,36,AVAILABLE
+freezer,"sausages fresh",17,6,11,AVAILABLE
+shelf,"black pepper imported",24,2,22,AVAILABLE
+freezer,"sausages local",31,3,28,AVAILABLE
+shelf,"oregano small",22,5,17,AVAILABLE
+shelf,"garlic powder bulk",23,6,17,AVAILABLE
+fridge,"yogurt bulk",31,5,26,AVAILABLE
+freezer,"veg rolls imported",46,1,45,AVAILABLE
+freezer,"frozen chips local",27,1,26,AVAILABLE
+fridge,"chicken breast imported",44,6,38,AVAILABLE
+shelf,"pasta bulk",34,3,31,AVAILABLE
+shelf,honey,15,4,11,AVAILABLE
+fridge,"chicken breast fresh",30,4,26,AVAILABLE
+fridge,"eggs local",30,5,25,AVAILABLE
+shelf,"mayonnaise organic",15,4,11,AVAILABLE
+shelf,"honey large",49,1,48,AVAILABLE
+shelf,"tea powder premium",42,4,38,AVAILABLE
+fridge,"spinach premium",36,4,32,AVAILABLE
+shelf,"bbq sauce bulk",11,5,6,AVAILABLE
+fridge,"cucumber small",47,3,44,AVAILABLE
+fridge,"bacon organic",43,4,39,AVAILABLE
+shelf,"mixed herbs bulk",34,2,32,AVAILABLE
+shelf,"coffee bulk",14,4,10,AVAILABLE
+fridge,"cream fresh",21,3,18,AVAILABLE
+shelf,"chickpeas imported",30,2,28,AVAILABLE
+freezer,"ice cream strawberry organic",10,5,5,"LOW STOCK"
+fridge,"mushroom bulk",30,4,26,AVAILABLE
+fridge,"milk bulk",21,4,17,AVAILABLE
+fridge,"yogurt imported",35,5,30,AVAILABLE
+freezer,"ice cream chocolate local",12,4,8,AVAILABLE
+freezer,"frozen chips fresh",32,4,28,AVAILABLE
+fridge,"beef imported",35,5,30,AVAILABLE
+freezer,"sausages bulk",29,5,24,AVAILABLE
+shelf,"onion large",29,4,25,AVAILABLE
+shelf,"oats bulk",6,4,2,"LOW STOCK"
+shelf,"paprika small",37,3,34,AVAILABLE
+fridge,"tomato premium",23,2,21,AVAILABLE
+shelf,"mayonnaise local",15,7,8,AVAILABLE
+fridge,"lettuce frozen",41,3,38,AVAILABLE
+shelf,chickpeas,34,2,32,AVAILABLE
+fridge,"broccoli organic",19,3,16,AVAILABLE
+fridge,"spinach imported",28,4,24,AVAILABLE
+shelf,"sugar organic",37,3,34,AVAILABLE
+freezer,"frozen chips premium",49,3,46,AVAILABLE
+fridge,"yogurt fresh",29,5,24,AVAILABLE
+shelf,"sunflower oil imported",11,7,4,"LOW STOCK"
+fridge,"cream frozen",33,4,29,AVAILABLE
+fridge,"butter organic",34,3,31,AVAILABLE
+shelf,"sugar premium",50,5,45,AVAILABLE
+shelf,"vinegar premium",47,5,42,AVAILABLE
+fridge,"cucumber local",7,4,3,"LOW STOCK"
+freezer,"fish fingers premium",8,6,2,"LOW STOCK"
+fridge,"spinach large",14,4,10,AVAILABLE
+shelf,"bbq sauce",8,3,5,"LOW STOCK"
+fridge,"cream organic",39,4,35,AVAILABLE
+shelf,"oats organic",31,2,29,AVAILABLE
+shelf,"olive oil premium",32,5,27,AVAILABLE
+shelf,"garlic powder local",40,4,36,AVAILABLE
+shelf,"garlic bread frozen",30,6,24,AVAILABLE
+shelf,"oregano frozen",11,5,6,"LOW STOCK"
+fridge,"chicken goujons local",25,3,22,AVAILABLE
+shelf,"bbq sauce large",9,5,4,"LOW STOCK"
+fridge,"chicken goujons frozen",17,3,14,AVAILABLE
+shelf,"paprika imported",20,1,19,AVAILABLE
+shelf,"cornflakes frozen",11,8,3,"LOW STOCK"
+freezer,"chowder large",35,5,30,AVAILABLE
+fridge,"cheese large",43,6,37,AVAILABLE
+shelf,"corn flour fresh",21,3,18,AVAILABLE
+fridge,"milk local",45,1,44,AVAILABLE
+shelf,"black pepper frozen",12,4,8,AVAILABLE
+fridge,"chicken wings large",29,4,25,AVAILABLE
+freezer,"veg rolls organic",21,7,14,AVAILABLE
+shelf,"mixed herbs fresh",18,5,13,AVAILABLE
+shelf,"tea powder large",10,4,6,AVAILABLE
+fridge,"ham premium",36,4,32,AVAILABLE
+fridge,"chicken breast organic",48,1,47,AVAILABLE
+shelf,"mixed herbs imported",13,2,11,AVAILABLE
+shelf,"turmeric small",29,3,26,AVAILABLE
+fridge,"butter local",9,3,6,"LOW STOCK"
+shelf,turmeric,41,3,38,AVAILABLE
+shelf,"black pepper local",10,4,6,"LOW STOCK"
+fridge,"eggs organic",45,3,42,AVAILABLE
+freezer,"frozen peas bulk",12,0,12,AVAILABLE
+fridge,ham,15,1,14,AVAILABLE
+shelf,"bbq sauce local",18,3,15,AVAILABLE
+freezer,"frozen fish premium",38,5,33,AVAILABLE
+shelf,"pasta small",47,5,42,AVAILABLE
+shelf,"vinegar frozen",50,4,46,AVAILABLE
+fridge,"cheese organic",16,3,13,AVAILABLE
+fridge,"ham organic",43,1,42,AVAILABLE
+shelf,"sunflower oil bulk",42,5,37,AVAILABLE
+shelf,mustard,6,5,1,"OUT OF STOCK"
+fridge,"chicken supreme bulk",15,6,9,AVAILABLE
+shelf,"pasta frozen",29,3,26,AVAILABLE
+fridge,"butter fresh",33,2,31,AVAILABLE
+shelf,"vinegar organic",45,1,44,AVAILABLE
+shelf,"paprika frozen",25,2,23,AVAILABLE
+freezer,"frozen corn small",35,5,30,AVAILABLE
+shelf,"tea powder frozen",6,2,4,"LOW STOCK"
+shelf,"honey premium",30,3,27,AVAILABLE
+shelf,"vinegar small",47,3,44,AVAILABLE
+shelf,"garlic bread organic",8,3,5,"LOW STOCK"
+freezer,"veg rolls frozen",22,2,20,AVAILABLE
+freezer,"frozen fish local",16,7,9,AVAILABLE
+fridge,"lamb large",12,4,8,AVAILABLE
+freezer,"sausages large",27,3,24,AVAILABLE
+shelf,"beans small",30,3,27,AVAILABLE
+shelf,"mixed herbs premium",32,3,29,AVAILABLE
+shelf,"salt imported",30,7,23,AVAILABLE
+fridge,"bacon frozen",47,4,43,AVAILABLE
+shelf,"rice frozen",19,4,15,AVAILABLE
+fridge,"chicken breast large",50,6,44,AVAILABLE
+shelf,"oats fresh",49,2,47,AVAILABLE
+fridge,"ham large",48,4,44,AVAILABLE
+freezer,"frozen corn local",20,1,19,AVAILABLE
+shelf,"oregano organic",12,4,8,AVAILABLE
+freezer,"ice cream strawberry small",25,3,22,AVAILABLE
+fridge,"mushroom imported",27,3,24,AVAILABLE
+fridge,"bacon fresh",33,2,31,AVAILABLE
+shelf,"onion small",20,3,17,AVAILABLE
+shelf,"chickpeas small",13,2,11,AVAILABLE
+shelf,"sunflower oil premium",9,3,6,"LOW STOCK"
+shelf,"tea powder local",11,5,6,"LOW STOCK"
+freezer,"veg rolls large",44,7,37,AVAILABLE
+fridge,spinach,27,4,23,AVAILABLE
+shelf,"coffee imported",39,2,37,AVAILABLE
+freezer,"veg rolls local",43,5,38,AVAILABLE
+shelf,"tea powder fresh",19,2,17,AVAILABLE
+fridge,"lamb frozen",41,3,38,AVAILABLE
+fridge,"spinach local",13,8,5,"LOW STOCK"
+shelf,"plain flour fresh",14,3,11,AVAILABLE
+shelf,"soy sauce bulk",49,2,47,AVAILABLE
+freezer,"veg rolls small",34,5,29,AVAILABLE
+shelf,"onion premium",16,4,12,AVAILABLE
+fridge,"cheese frozen",23,6,17,AVAILABLE
+shelf,"mayonnaise bulk",15,3,12,AVAILABLE
+freezer,"pizza frozen large",40,5,35,AVAILABLE
+shelf,"honey fresh",19,4,15,AVAILABLE
+shelf,"plain flour large",5,4,1,"OUT OF STOCK"
+shelf,"ketchup local",19,2,17,AVAILABLE
+shelf,"custard powder local",33,1,32,AVAILABLE
+shelf,"mixed herbs",40,5,35,AVAILABLE
+shelf,vinegar,41,4,37,AVAILABLE
+shelf,"onion organic",15,4,11,AVAILABLE
+shelf,"oregano imported",21,4,17,AVAILABLE
+shelf,"beans bulk",27,5,22,AVAILABLE
+fridge,"ham fresh",26,6,20,AVAILABLE
+shelf,"paprika fresh",14,0,14,AVAILABLE
+shelf,"plain flour premium",18,5,13,AVAILABLE
+fridge,cream,29,5,24,AVAILABLE
+shelf,"honey frozen",31,6,25,AVAILABLE
+shelf,onion,35,7,28,AVAILABLE
+fridge,"yogurt organic",26,5,21,AVAILABLE
+freezer,"pizza frozen fresh",7,4,3,"LOW STOCK"
+fridge,"chicken breast frozen",15,4,11,AVAILABLE
+shelf,"ketchup frozen",49,4,45,AVAILABLE
+shelf,"chickpeas local",46,2,44,AVAILABLE
+shelf,"black pepper bulk",39,6,33,AVAILABLE
+fridge,"lettuce premium",45,6,39,AVAILABLE
+shelf,"coffee frozen",43,1,42,AVAILABLE
+freezer,"ice cream chocolate fresh",48,7,41,AVAILABLE
+fridge,"yogurt small",28,5,23,AVAILABLE
+shelf,"olive oil bulk",8,2,6,AVAILABLE
+shelf,"garlic powder premium",44,3,41,AVAILABLE
+shelf,"mustard fresh",38,5,32,AVAILABLE
+shelf,"turmeric large",8,7,1,"OUT OF STOCK"
+freezer,"spring rolls large",50,2,48,AVAILABLE
+fridge,hake,11,4,7,AVAILABLE
+freezer,"frozen fish small",35,5,30,AVAILABLE
+freezer,"frozen corn large",33,8,25,AVAILABLE
+fridge,"milk imported",47,6,41,AVAILABLE
+fridge,"carrot fresh",14,1,13,AVAILABLE

@@ -1,0 +1,321 @@
+item_name,storage_type,quantity,unit
+coffee fresh,shelf,30.86,kg
+salmon premium,fridge,47.86,kg
+butter frozen,fridge,33.8,kg
+chicken supreme local,fridge,26.94,kg
+oats large,shelf,7.94,kg
+fish fingers imported,freezer,20.64,pack
+onion powder premium,shelf,45.26,kg
+spring rolls small,freezer,20.98,pack
+milk organic,fridge,44.39,kg
+spring rolls frozen,freezer,30.3,pack
+mushroom premium,fridge,36.16,kg
+chowder fresh,freezer,34.62,pack
+tea powder bulk,shelf,33.99,kg
+frozen fish frozen,freezer,8.1,pack
+jam,shelf,16.16,kg
+pork,fridge,46.19,kg
+sunflower oil frozen,shelf,13.98,kg
+cucumber imported,fridge,12.35,kg
+eggs small,fridge,14.46,kg
+garlic bread,shelf,11.22,kg
+garlic bread premium,shelf,39.25,kg
+chickpeas bulk,shelf,26.84,kg
+pork premium,fridge,38.69,kg
+ham small,fridge,21.08,kg
+ketchup,shelf,46.19,kg
+frozen corn,freezer,49.39,pack
+hake fresh,fridge,27.82,kg
+chowder frozen,freezer,6.43,pack
+ham frozen,fridge,22.23,kg
+lamb organic,fridge,47.85,kg
+frozen chips small,freezer,35.2,pack
+sausages,freezer,18.86,pack
+cornflakes large,shelf,26.37,kg
+bbq sauce fresh,shelf,46.29,kg
+bacon small,fridge,10.91,kg
+lamb fresh,fridge,31.31,kg
+fish fingers organic,freezer,6.77,pack
+onion powder small,shelf,9.9,kg
+lamb local,fridge,18.86,kg
+hake bulk,fridge,21.7,kg
+beans premium,shelf,35.91,kg
+frozen chips large,freezer,46.75,pack
+carrot,fridge,11.22,kg
+frozen fish large,freezer,15.29,pack
+chicken goujons bulk,fridge,35.5,kg
+ice cream strawberry premium,freezer,19.21,pack
+rice imported,shelf,47.7,kg
+frozen peas frozen,freezer,38.07,pack
+broccoli,fridge,28.86,kg
+salt frozen,shelf,12.85,kg
+ice cream chocolate organic,freezer,42.34,pack
+ice cream strawberry fresh,freezer,17.69,pack
+mixed herbs small,shelf,17.4,kg
+fish fingers,freezer,49.75,pack
+onion powder large,shelf,16.34,kg
+chicken goujons,fridge,23.51,kg
+sunflower oil fresh,shelf,39.26,kg
+butter small,fridge,37.22,kg
+mustard large,shelf,28.12,kg
+vinegar large,shelf,47.13,kg
+beef frozen,fridge,25.36,kg
+chicken goujons small,fridge,6.28,kg
+sugar imported,shelf,19.57,kg
+pork frozen,fridge,39.85,kg
+frozen fish fresh,freezer,34.53,pack
+oats imported,shelf,8.44,kg
+lamb small,fridge,39.63,kg
+milk frozen,fridge,24.31,kg
+garlic bread bulk,shelf,17.85,kg
+oats small,shelf,5.49,kg
+broccoli local,fridge,27.22,kg
+frozen chips frozen,freezer,13.02,pack
+cream premium,fridge,27.2,kg
+milk premium,fridge,14.8,kg
+custard powder frozen,shelf,36.64,kg
+black pepper large,shelf,38.87,kg
+lamb imported,fridge,45.84,kg
+soy sauce imported,shelf,49.17,kg
+pork fresh,fridge,18.7,kg
+pasta fresh,shelf,31.18,kg
+ice cream vanilla,freezer,15.45,pack
+pork local,fridge,35.12,kg
+spinach organic,fridge,43.91,kg
+hake frozen,fridge,5.3,kg
+cornflakes local,shelf,26.46,kg
+mushroom,fridge,15.09,kg
+custard powder fresh,shelf,20.31,kg
+corn flour imported,shelf,16.04,kg
+jam frozen,shelf,43.31,kg
+tomato local,fridge,35.83,kg
+chicken wings local,fridge,42.49,kg
+ice cream chocolate large,freezer,32.79,pack
+salt local,shelf,14.16,kg
+turmeric fresh,shelf,42.06,kg
+frozen corn frozen,freezer,22.01,pack
+paprika large,shelf,15.92,kg
+corn flour frozen,shelf,5.51,kg
+carrot imported,fridge,37.29,kg
+sugar large,shelf,44.82,kg
+soy sauce local,shelf,39.7,kg
+carrot premium,fridge,14.53,kg
+frozen peas fresh,freezer,40.98,pack
+sugar frozen,shelf,35.32,kg
+garlic powder,shelf,41.42,kg
+black pepper organic,shelf,36.12,kg
+mayonnaise frozen,shelf,33.03,kg
+salmon frozen,fridge,13.82,kg
+olive oil small,shelf,32.67,kg
+onion local,shelf,26.95,kg
+onion powder local,shelf,29.49,kg
+frozen corn imported,freezer,35.33,pack
+salmon large,fridge,48.34,kg
+beans imported,shelf,35.92,kg
+fish fingers bulk,freezer,42.12,pack
+spring rolls premium,freezer,12.43,pack
+custard powder imported,shelf,8.53,kg
+coffee,shelf,29.84,kg
+mustard small,shelf,10.78,kg
+noodles frozen,shelf,6.97,kg
+paprika premium,shelf,17.27,kg
+garlic powder small,shelf,13.04,kg
+cucumber fresh,fridge,40,kg
+frozen peas organic,freezer,28.77,pack
+pork imported,fridge,45.47,kg
+ice cream strawberry large,freezer,16.89,pack
+ice cream strawberry imported,freezer,16.81,pack
+bacon local,fridge,40.25,kg
+ketchup organic,shelf,5.65,kg
+mayonnaise small,shelf,15.63,kg
+black pepper fresh,shelf,33.83,kg
+chicken wings imported,fridge,20.66,kg
+chicken goujons fresh,fridge,36.32,kg
+plain flour bulk,shelf,36.2,kg
+mayonnaise fresh,shelf,18.99,kg
+cornflakes imported,shelf,14.78,kg
+coffee large,shelf,38.93,kg
+carrot organic,fridge,31.04,kg
+veg rolls fresh,freezer,9.61,pack
+sugar fresh,shelf,10.57,kg
+ketchup premium,shelf,23.86,kg
+hake organic,fridge,23.23,kg
+tea powder organic,shelf,34.4,kg
+onion imported,shelf,45.27,kg
+rice,shelf,13.61,kg
+noodles imported,shelf,10.73,kg
+spring rolls bulk,freezer,36.52,pack
+chickpeas large,shelf,45.92,kg
+salt small,shelf,8.56,kg
+ice cream vanilla fresh,freezer,44.32,pack
+sausages fresh,freezer,17.13,pack
+black pepper imported,shelf,23.72,kg
+sausages local,freezer,30.68,pack
+oregano small,shelf,21.77,kg
+garlic powder bulk,shelf,23.28,kg
+yogurt bulk,fridge,30.96,kg
+veg rolls imported,freezer,46.43,pack
+frozen chips local,freezer,26.51,pack
+chicken breast imported,fridge,44.42,kg
+pasta bulk,shelf,34.31,kg
+honey,shelf,15.1,kg
+chicken breast fresh,fridge,29.97,kg
+eggs local,fridge,30.07,kg
+mayonnaise organic,shelf,14.65,kg
+honey large,shelf,48.63,kg
+tea powder premium,shelf,41.69,kg
+spinach premium,fridge,35.87,kg
+bbq sauce bulk,shelf,11.46,kg
+cucumber small,fridge,47.17,kg
+bacon organic,fridge,43.26,kg
+mixed herbs bulk,shelf,33.71,kg
+coffee bulk,shelf,13.72,kg
+cream fresh,fridge,21.45,kg
+chickpeas imported,shelf,29.97,kg
+ice cream strawberry organic,freezer,10.06,pack
+mushroom bulk,fridge,29.61,kg
+milk bulk,fridge,20.69,kg
+yogurt imported,fridge,35.26,kg
+ice cream chocolate local,freezer,11.76,pack
+frozen chips fresh,freezer,32.14,pack
+beef imported,fridge,35.02,kg
+sausages bulk,freezer,28.79,pack
+onion large,shelf,28.53,kg
+oats bulk,shelf,6.03,kg
+paprika small,shelf,36.91,kg
+tomato premium,fridge,23.22,kg
+mayonnaise local,shelf,15.15,kg
+lettuce frozen,fridge,41.26,kg
+chickpeas,shelf,33.8,kg
+broccoli organic,fridge,18.62,kg
+spinach imported,fridge,27.96,kg
+sugar organic,shelf,37.42,kg
+frozen chips premium,freezer,49.31,pack
+yogurt fresh,fridge,29.37,kg
+sunflower oil imported,shelf,10.75,kg
+cream frozen,fridge,32.66,kg
+butter organic,fridge,33.98,kg
+sugar premium,shelf,49.54,kg
+vinegar premium,shelf,46.99,kg
+cucumber local,fridge,6.71,kg
+fish fingers premium,freezer,8.15,pack
+spinach large,fridge,13.68,kg
+bbq sauce,shelf,7.81,kg
+cream organic,fridge,38.76,kg
+oats organic,shelf,30.55,kg
+olive oil premium,shelf,31.88,kg
+garlic powder local,shelf,39.78,kg
+garlic bread frozen,shelf,29.54,kg
+oregano frozen,shelf,10.62,kg
+chicken goujons local,fridge,24.96,kg
+bbq sauce large,shelf,9.2,kg
+chicken goujons frozen,fridge,17.04,kg
+paprika imported,shelf,20.31,kg
+cornflakes frozen,shelf,10.73,kg
+chowder large,freezer,34.95,pack
+cheese large,fridge,43.06,kg
+corn flour fresh,shelf,21.2,kg
+milk local,fridge,44.52,kg
+black pepper frozen,shelf,11.81,kg
+chicken wings large,fridge,29.07,kg
+veg rolls organic,freezer,20.7,pack
+mixed herbs fresh,shelf,17.53,kg
+tea powder large,shelf,10.46,kg
+ham premium,fridge,36.03,kg
+chicken breast organic,fridge,48.21,kg
+mixed herbs imported,shelf,13.26,kg
+turmeric small,shelf,28.77,kg
+butter local,fridge,8.53,kg
+turmeric,shelf,40.84,kg
+black pepper local,shelf,9.7,kg
+eggs organic,fridge,45.29,kg
+frozen peas bulk,freezer,11.81,pack
+ham,fridge,15.4,kg
+bbq sauce local,shelf,18.45,kg
+frozen fish premium,freezer,38.42,pack
+pasta small,shelf,47.09,kg
+vinegar frozen,shelf,49.7,kg
+cheese organic,fridge,16.4,kg
+ham organic,fridge,42.93,kg
+sunflower oil bulk,shelf,42.27,kg
+mustard,shelf,6.01,kg
+chicken supreme bulk,fridge,15.14,kg
+pasta frozen,shelf,29.46,kg
+butter fresh,fridge,33.09,kg
+vinegar organic,shelf,44.99,kg
+paprika frozen,shelf,25.43,kg
+frozen corn small,freezer,35.26,pack
+tea powder frozen,shelf,5.92,kg
+honey premium,shelf,29.51,kg
+vinegar small,shelf,46.73,kg
+garlic bread organic,shelf,8.03,kg
+veg rolls frozen,freezer,22.14,pack
+frozen fish local,freezer,16.44,pack
+lamb large,fridge,12.38,kg
+sausages large,freezer,26.98,pack
+beans small,shelf,30,kg
+mixed herbs premium,shelf,31.79,kg
+salt imported,shelf,30.46,kg
+bacon frozen,fridge,46.77,kg
+rice frozen,shelf,18.55,kg
+chicken breast large,fridge,49.65,kg
+oats fresh,shelf,48.85,kg
+ham large,fridge,47.56,kg
+frozen corn local,freezer,20.13,pack
+oregano organic,shelf,11.58,kg
+ice cream strawberry small,freezer,25.02,pack
+mushroom imported,fridge,27.39,kg
+bacon fresh,fridge,33.12,kg
+onion small,shelf,20.07,kg
+chickpeas small,shelf,13.4,kg
+sunflower oil premium,shelf,8.98,kg
+tea powder local,shelf,10.69,kg
+veg rolls large,freezer,43.57,pack
+spinach,fridge,27.25,kg
+coffee imported,shelf,38.78,kg
+veg rolls local,freezer,42.63,pack
+tea powder fresh,shelf,19.35,kg
+lamb frozen,fridge,41.25,kg
+spinach local,fridge,13.21,kg
+plain flour fresh,shelf,13.55,kg
+soy sauce bulk,shelf,48.55,kg
+veg rolls small,freezer,33.73,pack
+onion premium,shelf,15.79,kg
+cheese frozen,fridge,22.93,kg
+mayonnaise bulk,shelf,15.01,kg
+pizza frozen large,freezer,40.07,pack
+honey fresh,shelf,19.32,kg
+plain flour large,shelf,5.34,kg
+ketchup local,shelf,19.1,kg
+custard powder local,shelf,32.63,kg
+mixed herbs,shelf,39.82,kg
+vinegar,shelf,41.26,kg
+onion organic,shelf,14.86,kg
+oregano imported,shelf,21.46,kg
+beans bulk,shelf,27.45,kg
+ham fresh,fridge,26.25,kg
+paprika fresh,shelf,13.79,kg
+plain flour premium,shelf,17.71,kg
+cream,fridge,29.11,kg
+honey frozen,shelf,30.77,kg
+onion,shelf,35.25,kg
+yogurt organic,fridge,26.24,kg
+pizza frozen fresh,freezer,6.78,pack
+chicken breast frozen,fridge,14.79,kg
+ketchup frozen,shelf,49.33,kg
+chickpeas local,shelf,45.87,kg
+black pepper bulk,shelf,39.37,kg
+lettuce premium,fridge,45.19,kg
+coffee frozen,shelf,43.11,kg
+ice cream chocolate fresh,freezer,47.61,pack
+yogurt small,fridge,28.39,kg
+olive oil bulk,shelf,8.15,kg
+garlic powder premium,shelf,44.47,kg
+mustard fresh,shelf,37.5,kg
+turmeric large,shelf,7.98,kg
+spring rolls large,freezer,49.96,pack
+hake,fridge,10.78,kg
+frozen fish small,freezer,35.44,pack
+frozen corn large,freezer,33.43,pack
+milk imported,fridge,47,kg
+carrot fresh,fridge,14.31,kg
